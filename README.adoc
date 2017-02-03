@@ -1,0 +1,8 @@
+= Maven Docker image
+
+Apache maven 3.3.9 version
+
+[source,shell]
+-----
+/apache-maven
+-----
